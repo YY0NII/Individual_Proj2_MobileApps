@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IndividualProject2_CARRERA</string>
+    <string name="individual_project_2">Individual Project 2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Password to short</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="family_name">Family name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="title_activity_rules">Rules</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="rule_1">1. Read all questions carefully</string>
+    <string name="rule_2">2. Answer all questions fully</string>
+    <string name="rule_3">3. Some questions may take multiple answers</string>
+    <string name="rules">Rules</string>
+    <string name="play">Play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latest_score">Latest Score</string>
+    <string name="finish_quiz">Finish quiz</string>
+    <string name="rule_4">4. Once you\'ve answered all 5 questions please hit the finish quiz button</string>
+    <string name="see_latest_score">See Latest Score</string>
+    <string name="play_again">Play Again</string>
+</resources>
